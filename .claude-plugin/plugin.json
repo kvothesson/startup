@@ -1,0 +1,11 @@
+{
+  "name": "startup",
+  "version": "1.0.0",
+  "description": "Ecosistema emprendedor argentino: fondos publicos y privados, constitucion de empresas, equity y pitch",
+  "skills": [
+    {
+      "name": "startup",
+      "path": "skills/startup/SKILL.md"
+    }
+  ]
+}
