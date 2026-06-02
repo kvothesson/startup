@@ -1,6 +1,6 @@
 # startup
 
-Plugin de Claude Code — ecosistema emprendedor argentino.
+Compatible con **Claude Code** y **OpenAI Codex** — ecosistema emprendedor argentino.
 
 ## Que hace
 
@@ -10,6 +10,16 @@ Plugin de Claude Code — ecosistema emprendedor argentino.
 
 ```bash
 claude --plugin-dir /ruta/a/startup
+```
+
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/startup ~/startup
+cd ~/startup
+codex
 ```
 
 ## Comandos y ejemplos
