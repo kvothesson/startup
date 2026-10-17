@@ -33,25 +33,25 @@ FONTAR (Fondo Tecnologico Argentino)
   Que es: subsidios no reembolsables (ANR) y creditos blandos para innovacion tecnologica
   ANR: hasta USD 500.000 aprox. — requiere co-financiamiento propio
   Quien aplica: empresas con proyecto de innovacion tecnologica radicadas en Argentina
-  Estado convocatoria: convocatoria permanente (verificar apertura en agencia.gob.ar)
-  → https://www.agencia.gob.ar/fontar
+  Estado convocatoria: convocatoria permanente (verificar apertura en argentina.gob.ar/ciencia/agencia)
+  → https://www.argentina.gob.ar/ciencia/agencia
 
 FONSOFT (Software y Servicios Informaticos)
   Que es: financiamiento especifico para empresas de software
   ANR de hasta $15M para proyectos de I+D en software
-  → https://www.agencia.gob.ar/fonsoft
+  → https://www.argentina.gob.ar/ciencia/agencia
 
 SEPyME — Creditos PyME
   Lineas para capital de trabajo, inversion, exportacion
-  Tasa subsidiada — verificar vigentes en argentina.gob.ar/produccion/sepyme
-  → https://www.argentina.gob.ar/produccion/sepyme
+  Tasa subsidiada — verificar vigentes en argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento
+  → https://www.argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento
 
 ECOSISTEMA PRIVADO (may 2026)
   Aceleradoras activas: Endeavor, NAVES (UCA), Socialab, StartupBoot
   VCs con actividad en AR: Kaszek, ALLVP, Fuel Ventures (buscar vigentes)
 
-🔗 Portal emprender: https://www.argentina.gob.ar/tema/emprender/financiamiento
-Fuente: argentina.gob.ar / agencia.gob.ar — 4 may 2026
+🔗 Portal emprender: https://www.argentina.gob.ar/tema/emprendimientos-pymes
+Fuente: argentina.gob.ar — 4 may 2026
 ```
 
 ---
@@ -128,10 +128,10 @@ Fuente: sintesis del ecosistema — 4 may 2026
 
 ## Fuentes
 
-- **FONTAR:** [agencia.gob.ar/fontar](https://www.agencia.gob.ar/fontar)
-- **FONSOFT:** [agencia.gob.ar/fonsoft](https://www.agencia.gob.ar/fonsoft)
-- **SEPyME:** [argentina.gob.ar/produccion/sepyme](https://www.argentina.gob.ar/produccion/sepyme)
-- **Portal emprender:** [argentina.gob.ar/tema/emprender/financiamiento](https://www.argentina.gob.ar/tema/emprender/financiamiento)
+- **FONTAR:** [argentina.gob.ar/ciencia/agencia](https://www.argentina.gob.ar/ciencia/agencia)
+- **FONSOFT:** [argentina.gob.ar/ciencia/agencia](https://www.argentina.gob.ar/ciencia/agencia)
+- **SEPyME:** [argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento](https://www.argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento)
+- **Portal emprender:** [argentina.gob.ar/tema/emprendimientos-pymes](https://www.argentina.gob.ar/tema/emprendimientos-pymes)
 - **IGJ / TAD:** [tramitesadistancia.gob.ar](https://tramitesadistancia.gob.ar)
 
 Este plugin no almacena ni transmite informacion del usuario. No constituye asesoramiento legal ni contable.

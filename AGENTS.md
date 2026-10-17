@@ -33,11 +33,11 @@ Financiamiento publico y privado disponible para emprendimientos y startups en A
 
 **Paso 1 — Portal oficial:**
 
-WebFetch: `https://www.argentina.gob.ar/tema/emprender/financiamiento`
+WebFetch: `https://www.argentina.gob.ar/tema/emprendimientos-pymes`
 
 **Paso 2 — FONTAR y FONSOFT:**
 
-WebSearch: `FONTAR ANR convocatoria [año actual] site:agencia.gob.ar OR site:argentina.gob.ar`
+WebSearch: `FONTAR ANR convocatoria [año actual] site:argentina.gob.ar`
 
 WebSearch: `FONSOFT financiamiento software [año actual] Argentina`
 
@@ -55,22 +55,22 @@ FONTAR (Fondo Tecnologico Argentino)
   ANR: hasta [monto vigente] — requiere co-financiamiento propio
   Quien aplica: empresas con proyecto de innovacion tecnologica radicadas en Argentina
   Estado convocatoria: [buscar si esta abierta]
-  → https://www.agencia.gob.ar/fontar
+  → https://www.argentina.gob.ar/ciencia/agencia
 
 FONSOFT (Software y Servicios Informaticos)
   Que es: financiamiento especifico para empresas de software
-  → https://www.agencia.gob.ar/fonsoft
+  → https://www.argentina.gob.ar/ciencia/agencia
 
 SEPyME — Creditos PyME
   Lineas para capital de trabajo, inversion, exportacion
-  → https://www.argentina.gob.ar/produccion/sepyme
+  → https://www.argentina.gob.ar/economia/pymes-emprendedores-y-economia-del-conocimiento
 
 ECOSISTEMA PRIVADO
   [buscar con WebSearch "aceleradoras Argentina [año actual]" y "VCs activos Argentina [año actual]"]
   [presentar los resultados mas relevantes encontrados]
 
-🔗 Portal emprender: https://www.argentina.gob.ar/tema/emprender/financiamiento
-Fuente: argentina.gob.ar / agencia.gob.ar — [fecha]
+🔗 Portal emprender: https://www.argentina.gob.ar/tema/emprendimientos-pymes
+Fuente: argentina.gob.ar — [fecha]
 ```
 
 ---
@@ -216,7 +216,7 @@ Fuente: sintesis del ecosistema — [fecha]
 
 ## Manejo de errores
 
-- Si agencia.gob.ar no carga, busca con WebSearch `FONTAR convocatoria [año actual]`.
+- Si argentina.gob.ar/ciencia/agencia no carga, busca con WebSearch `FONTAR convocatoria [año actual]`.
 - Si los montos de ANR tienen mas de 6 meses de antiguedad, avisalo.
 - Si el usuario pregunta por aceleradoras privadas especificas, hace WebSearch directamente.
 - Nunca des asesoramiento legal ni contable. Para constitucion de empresa y contratos, siempre indicar que consulte con profesional matriculado.
