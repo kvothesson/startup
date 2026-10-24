@@ -1,11 +1,12 @@
 {
   "name": "startup",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Ecosistema emprendedor argentino: fondos publicos y privados, constitucion de empresas, equity y pitch",
-  "skills": [
-    {
-      "name": "startup",
-      "path": "skills/startup/SKILL.md"
-    }
-  ]
+  "author": {
+    "name": "Kvothesson",
+    "url": "https://github.com/kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/startup",
+  "repository": "https://github.com/kvothesson/startup",
+  "license": "MIT"
 }
